@@ -5,7 +5,7 @@ This project is developed using Salesforce CRM to manage the operations of a cha
 It helps in maintaining customer details and business records efficiently.
 
 Demo Video
-[Demo Video] https://drive.google.com/folderview?id=1_-BYiP5CfXDUdAjDyLRM6-yYr5sh4vWb
+https://drive.google.com/folderview?id=1b1Kj-f-6aWfdqS5l2ExKsW_XDGPiJERI
 
 Team Members
 - Shazia
